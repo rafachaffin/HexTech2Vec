@@ -1,0 +1,93 @@
+@import url(https://db.onlinewebfonts.com/c/12420e8c141ca7c3dff41de2d59df13e?family=Beaufort+for+LOL+Bold);
+@import url(https://db.onlinewebfonts.com/c/3bd637b3a86a512a2bc2ac1d8b77d56e?family=SpiegelSans);
+
+.intro {
+    font-family: "SpiegelSans";
+    font-size: 1.20rem;
+    text-align: center;
+    color: #f0e6d2;
+    font-weight: 500;
+}
+.sub_intro {
+    font-family: "SpiegelSans";
+    font-size: 1rem;
+    text-align: center;
+    color: #f0e6d2;
+    font-weight: 500;
+}
+
+h2 {
+    font-family: "Beaufort for LOL Bold";
+    text-align: left;
+}
+
+h2.frobenius{
+    font-size: 1rem;
+    font-weight: 150;
+    font-family: "SpiegelSans";
+    text-align: left;
+}
+
+.func_title{
+    text-align: center;
+    color: #c89b3c;
+    letter-spacing: 0.025em;
+    font-weight: 700;
+    font-size: 2.250rem;
+}
+
+
+.sub_header_func{
+    text-align: center;
+    color: #f0e6d2;
+    letter-spacing: 0.025em;
+    font-weight: 700;
+    font-size: 1.5rem;
+    font-family: "Beaufort for LOL Bold";
+}
+
+.sub_header_func_comp{
+    text-align: center;
+    color: #f0e6d2;
+    letter-spacing: 0.025em;
+    font-weight: 700;
+    font-size: 2rem;
+    font-family: "Beaufort for LOL Bold";
+    margin: 1rem;
+}
+
+
+h1.custom-title {
+    font-family: "Beaufort for LOL Bold", sans-serif;  
+    font-size: 5.625rem;
+    color: #f0e6d2;
+    
+    
+    letter-spacing: -0.01em;
+    
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 0;
+    margin-bottom: 5rem;
+}
+h5.custom-title {
+    font-family: "Beaufort for LOL Bold", sans-serif;  
+    font-size: 1.125rem;
+    color: #c89b3c;
+    text-align: center;
+    margin-bottom: 1rem;
+    letter-spacing: 0.025em;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 0px;
+    padding-bottom: 0.5rem;
+}
+p{
+    font-family: "SpiegelSans";
+}
+p.side{
+    font-size: 0.9rem;
+}
+body{
+    font-family: "SpiegelSans";
+}
